@@ -1,0 +1,17 @@
+
+    Informe de Análisis de Datos:
+    
+    Total de Registros: 1693120
+    Columnas: Country Name, Country Code, Year, Value, name, country, subcountry, geonameid
+    
+    Resumen Estadístico:
+                   Year         Value     geonameid
+count  1.693120e+06  1.693120e+06  1.693120e+06
+mean   1.991500e+03  2.435889e+08  3.104160e+06
+std    1.847296e+01  3.705941e+08  2.468209e+06
+min    1.960000e+03  2.646000e+03  1.891800e+04
+25%    1.975750e+03  2.701491e+07  1.487882e+06
+50%    1.991500e+03  7.875128e+07  2.640201e+06
+75%    2.007250e+03  2.358250e+08  3.671315e+06
+max    2.023000e+03  1.428628e+09  1.313214e+07
+    
