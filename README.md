@@ -41,4 +41,17 @@ docker-compose logs airflow
 
 ## Resultados
 
+Vemos que el dag esta corriendo y sin errores.
+
+<p align="center">
+  <img width='60%' src="https://github.com/alvarodelburgoperez/airflow-with-docker-compose-playground/blob/main/assets/airflow.png" />
+</p>
+
+Observamos que el archivo inform_salida.txt se ha generado y contiene el resultado del merge de ambos archivos descargados.
+
+<p align="center">
+  <img width='60%' src="https://github.com/alvarodelburgoperez/airflow-with-docker-compose-playground/blob/main/assets/informe.png" />
+</p>
+
+
 
